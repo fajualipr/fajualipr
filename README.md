@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy una apasionada analista de datos en formación con un enfoque en proyectos académicos que demuestran mi habilidad para trabajar con datos y extraer información valiosa. A continuación, te presento algunos de mis proyectos más destacados sobre análisis de datos y negocios.
 
-👩‍💻 Acerca de mí:
+## 👩‍💻 Acerca de mí:
 
 📲 Aspirante a Data Analyst en búsqueda de convertir datos en conocimientos valiosos.
 
