@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/fajualipr/fajualipr/blob/main/Analyst_LinkedIn.png" width="800"/>
+  <img decoding="async" src="https://github.com/fajualipr/fajualipr/blob/main/[Analyst_LinkedIn](https://www.canva.com/design/DAGMegf5sME/U2OFsn7xKKucEvj1Y5Zlew/edit).png" width="800"/>
 </div>
 
 ## ¡Hola! Soy Francisco Ajualip  👋
