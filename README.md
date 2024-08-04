@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/fajualipr/fajualipr/blob/main/Analyst_LinkedIn.png" width="800"/>
+</div>
+
 ## ¡Hola! Soy Francisco Ajualip  👋
 
 ¡Bienvenido a mi perfil de GitHub! Soy una apasionada analista de datos en formación con un enfoque en proyectos académicos que demuestran mi habilidad para trabajar con datos y extraer información valiosa. A continuación, te presento algunos de mis proyectos más destacados sobre análisis de datos y negocios.
