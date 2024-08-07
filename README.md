@@ -36,7 +36,7 @@ Python, Excel, Tableau, SQL, Power BI, R
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
-<img decoding="async" src="https://img.shields.io/badge/TABLEAU-FFBE00?style=for-the-badge&logo=TABLEAU&logoColor=white" alt="tableau"/>
+<img decoding="async" src="https://img.shields.io/badge/TABLEAU-FFBE00?style=for-the-badge&logo=TABLEAU&logoColor=blue" alt="tableau"/>
   </a>
 </div>
 
