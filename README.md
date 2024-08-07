@@ -12,10 +12,15 @@
 
 🚀 Tengo conocimientos en negocios por lo que te ayuda a tomar decisiones basadas en datos y al mismo tiempo cuento con distintos proyectos de análisis de datos relacionados a la vida real en distintos sectores.
 
-✍️ Puedes contactarte conmigo Linkedin
 ✍️ ¿Quieres contactar conmigo? Linkedin Badge
 
-🛠️ Lenguajes y herramientas: Python, Excel, Tableau, SQL, Power BI
+📧 faurelioruiz18@gmail.com
+
+📱 +502 3031 0850
+
+## 🛠️ Lenguajes y herramientas: 
+
+Python, Excel, Tableau, SQL, Power BI
 
 <!--
 **fajualipr/fajualipr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
