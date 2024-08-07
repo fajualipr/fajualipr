@@ -27,6 +27,7 @@
 
 Python, Excel, Tableau, SQL, Power BI, R
 <div id="header" align="left">
+  
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
     <img decoding="async" src="https://img.shields.io/badge/SQL-6DB33F?style=for-the-badge&logo=sql&logoColor=white" alt="sql"/>
@@ -35,7 +36,8 @@ Python, Excel, Tableau, SQL, Power BI, R
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
-
+<img decoding="async" src="https://img.shields.io/badge/TABLEAU-FFBE00?style=for-the-badge&logo=TABLEAU&logoColor=white" alt="tableau"/>
+  </a>
 </div>
 
 <!--
