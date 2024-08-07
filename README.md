@@ -19,9 +19,9 @@
 📱 +502 3031 0850
 
 ## 🛠️ Lenguajes y herramientas : 
-[![My Skills](https://skillicons.dev/icons?i=py,sql,MSExcel,tableau,r)](https://skillicons.dev)
 
 Python, Excel, Tableau, SQL, Power BI, R
+
 
 <!--
 **fajualipr/fajualipr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
