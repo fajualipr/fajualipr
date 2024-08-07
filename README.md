@@ -16,7 +16,8 @@
 
 🚀 Tengo conocimientos en negocios por lo que te ayuda a tomar decisiones basadas en datos y al mismo tiempo cuento con distintos proyectos de análisis de datos relacionados a la vida real en distintos sectores.
 
-✍️ ¿Quieres contactar conmigo? Linkedin Badge
+✍️ ¿Quieres contactar conmigo? [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-ajualipr/)
+
 
 📧 faurelioruiz18@gmail.com
 
