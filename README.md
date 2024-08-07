@@ -20,7 +20,7 @@
 
 ## 🛠️ Lenguajes y herramientas: 
 
-Python, Excel, Tableau, SQL, Power BI
+Python, Excel, Tableau, SQL, Power BI, R
 
 <!--
 **fajualipr/fajualipr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
