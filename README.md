@@ -18,7 +18,7 @@
 
 📱 +502 3031 0850
 
-## 🛠️ Lenguajes y herramientas: 
+## 🛠️ Lenguajes y herramientas : 
 
 Python, Excel, Tableau, SQL, Power BI, R
 
