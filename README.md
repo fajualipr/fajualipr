@@ -19,6 +19,7 @@
 📱 +502 3031 0850
 
 ## 🛠️ Lenguajes y herramientas : 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 Python, Excel, Tableau, SQL, Power BI, R
 
