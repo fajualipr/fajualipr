@@ -25,8 +25,6 @@
 
 ## 🛠️ Lenguajes y herramientas : 
 
-Python, Excel, Tableau, SQL, Power BI, 
-
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
@@ -36,7 +34,8 @@ Python, Excel, Tableau, SQL, Power BI,
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
-
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
+</a>
 </div>
 
 <!--
