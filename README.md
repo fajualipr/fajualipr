@@ -32,7 +32,7 @@
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
-  <img src="https://img.shields.io/badge/Tableau-3f6db3?style=for-the-badge&logo=Tableau&logoColor=white" alt="tableau"/>
+  <img src="https://img.shields.io/badge/Tableau-3f6db3?style=for-the-badge&logo=Tableau&logoColor=orange" alt="tableau"/>
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
