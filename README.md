@@ -28,7 +28,7 @@
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
-    <img decoding="async" src="https://img.shields.io/badge/SQL-6DB33F?style=for-the-badge&logo=sql&logoColor=white" alt="sql"/>
+    <img decoding="async" src="https://img.shields.io/badge/SQL-3f6db3?style=for-the-badge&logo=sql&logoColor=white" alt="sql"/>
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
